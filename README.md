@@ -1,4 +1,4 @@
-Simple-HTML5
+Simples
 ============
 
-A clean and simple HTML5 Template
+HTML5 made Simples.
